@@ -1,1 +1,2 @@
-This contains solutions of the part 1 in the exercise section.
+Solutions of part 1 exercises to this folder, one app per folder
+
